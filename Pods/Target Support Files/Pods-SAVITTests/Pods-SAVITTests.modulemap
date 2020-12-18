@@ -1,0 +1,6 @@
+framework module Pods_SAVITTests {
+  umbrella header "Pods-SAVITTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

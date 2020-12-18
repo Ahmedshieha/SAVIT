@@ -1,0 +1,1097 @@
+2020-12-18 15:15:47 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8a415dcd20; archive(resolved)='<IDEArchive: 0x7f8aaafbb8d0>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8a415dcd20; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f8a415db820; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a9910cb50; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a4129fbd0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a412aa3d0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a88bd6960; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a412914f0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a412cb1b0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a412a5650; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a4128f090; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8aac20d6b0; teamID='DUTXAC2W79', teamName='Nahla Taha', teamType='Individual', username='taha.nahla@ymail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a8a3925b0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='(null)'>
+	<IDEDistributionContext: 0x7f8a4278fad0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a90762d90>', team='(null)'>
+	<IDEDistributionContext: 0x7f8a412685f0; archive = '<IDEArchive: 0x7f8aaafbb8d0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f8a415dcd20>
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionCopyItemStep
+2020-12-18 15:15:47 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app'
+2020-12-18 15:15:47 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app 
+2020-12-18 15:15:47 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  22361 bytes for ./_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./SAVIT ... 
+2020-12-18 15:15:47 +0000  6618928 bytes for ./SAVIT
+copying file ./GoogleService-Info.plist ... 
+2020-12-18 15:15:47 +0000  654 bytes for ./GoogleService-Info.plist
+copying file ./Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/objects-13.0+.nib ... 
+2059 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/runtime.nib ... 
+2059 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/runtime.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:47 +0000  1060 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/objects-13.0+.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/runtime.nib ... 
+2020-12-18 15:15:47 +0000  1060 bytes for ./Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/runtime.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:47 +0000  4854 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2020-12-18 15:15:47 +0000  4849 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:47 +0000  4689 bytes for ./Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/runtime.nib ... 
+2020-12-18 15:15:47 +0000  4696 bytes for ./Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/runtime.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-12-18 15:15:47 +0000  351 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:47 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-12-18 15:15:47 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:47 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-12-18 15:15:47 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+2020-12-18 15:15:47 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-12-18 15:15:47 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  2472 bytes for ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp ... 
+2020-12-18 15:15:47 +0000  3610320 bytes for ./Frameworks/grpcpp.framework/grpcpp
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem ... 
+2020-12-18 15:15:47 +0000  284228 bytes for ./Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist ... 
+2020-12-18 15:15:47 +0000  739 bytes for ./Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpcpp.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  734 bytes for ./Frameworks/grpcpp.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/GoogleDataTransport.framework/GoogleDataTransport ... 
+2020-12-18 15:15:47 +0000  1129408 bytes for ./Frameworks/GoogleDataTransport.framework/GoogleDataTransport
+copying file ./Frameworks/GoogleDataTransport.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  761 bytes for ./Frameworks/GoogleDataTransport.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2020-12-18 15:15:47 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseFirestore.framework/FirebaseFirestore ... 
+2020-12-18 15:15:47 +0000  24415168 bytes for ./Frameworks/FirebaseFirestore.framework/FirebaseFirestore
+copying file ./Frameworks/FirebaseFirestore.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  758 bytes for ./Frameworks/FirebaseFirestore.framework/Info.plist
+copying file ./Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher ... 
+2020-12-18 15:15:47 +0000  1252912 bytes for ./Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher
+copying file ./Frameworks/GTMSessionFetcher.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  757 bytes for ./Frameworks/GTMSessionFetcher.framework/Info.plist
+copying file ./Frameworks/libswiftCore.dylib ... 
+2020-12-18 15:15:47 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2020-12-18 15:15:47 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FBLPromises.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FBLPromises.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FBLPromises.framework/FBLPromises ... 
+2020-12-18 15:15:47 +0000  601600 bytes for ./Frameworks/FBLPromises.framework/FBLPromises
+copying file ./Frameworks/FBLPromises.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  744 bytes for ./Frameworks/FBLPromises.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2020-12-18 15:15:47 +0000  4056896 bytes for ./Frameworks/libswiftDispatch.dylib
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FirebaseCore.framework/FirebaseCore ... 
+2020-12-18 15:15:47 +0000  629328 bytes for ./Frameworks/FirebaseCore.framework/FirebaseCore
+copying file ./Frameworks/FirebaseCore.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  745 bytes for ./Frameworks/FirebaseCore.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/GoogleUtilities.framework/GoogleUtilities ... 
+2020-12-18 15:15:47 +0000  972864 bytes for ./Frameworks/GoogleUtilities.framework/GoogleUtilities
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/GoogleUtilities.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  753 bytes for ./Frameworks/GoogleUtilities.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseAuth.framework/FirebaseAuth ... 
+2020-12-18 15:15:47 +0000  4478672 bytes for ./Frameworks/FirebaseAuth.framework/FirebaseAuth
+copying file ./Frameworks/FirebaseAuth.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  746 bytes for ./Frameworks/FirebaseAuth.framework/Info.plist
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+2020-12-18 15:15:47 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/nanopb.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/nanopb.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/nanopb.framework/nanopb ... 
+2020-12-18 15:15:47 +0000  179888 bytes for ./Frameworks/nanopb.framework/nanopb
+copying file ./Frameworks/nanopb.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  737 bytes for ./Frameworks/nanopb.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/leveldb.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/leveldb.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/leveldb.framework/leveldb ... 
+2020-12-18 15:15:47 +0000  2473088 bytes for ./Frameworks/leveldb.framework/leveldb
+copying file ./Frameworks/leveldb.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  736 bytes for ./Frameworks/leveldb.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/grpc.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/grpc.framework/grpc ... 
+2020-12-18 15:15:47 +0000  16374592 bytes for ./Frameworks/grpc.framework/grpc
+copying file ./Frameworks/grpc.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  730 bytes for ./Frameworks/grpc.framework/Info.plist
+copying file ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/openssl_grpc.framework/openssl_grpc ... 
+2020-12-18 15:15:47 +0000  9047264 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc
+copying file ./Frameworks/openssl_grpc.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  745 bytes for ./Frameworks/openssl_grpc.framework/Info.plist
+copying file ./Frameworks/absl.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/absl.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/absl.framework/absl ... 
+2020-12-18 15:15:47 +0000  2514256 bytes for ./Frameworks/absl.framework/absl
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/absl.framework/Info.plist ... 
+736 bytes for ./Frameworks/absl.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:47 +0000  1798 bytes for ./Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseInstallations.framework/FirebaseInstallations ... 
+2020-12-18 15:15:47 +0000  892880 bytes for ./Frameworks/FirebaseInstallations.framework/FirebaseInstallations
+copying file ./Frameworks/FirebaseInstallations.framework/Info.plist ... 
+2020-12-18 15:15:47 +0000  765 bytes for ./Frameworks/FirebaseInstallations.framework/Info.plist
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2020-12-18 15:15:47 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2020-12-18 15:15:47 +0000  copying file ./Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics ... 
+197792 bytes for ./Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics
+copying file ./Frameworks/FirebaseCoreDiagnostics.framework/Info.plist ... 
+769 bytes for ./Frameworks/FirebaseCoreDiagnostics.framework/Info.plist
+copying file ./embedded.mobileprovision ... 
+2020-12-18 15:15:47 +0000  9385 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2020-12-18 15:15:47 +0000  1415 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2020-12-18 15:15:47 +0000  8 bytes for ./PkgInfo
+2020-12-18 15:15:47 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a427b5140; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7f8a8a5fdd80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4129cb40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7f8a95b7abe0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a95d67a90; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7f8a95b2b330:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a5bd520; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7f8a8a30bfa0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a427b19f0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7f8a8a3df7c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412a3250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7f8a41543300:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a90d09740; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7f8a8a512630:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a580860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a91224600; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7f8a8a547280:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a95d67c00; bundleID='org.cocoapods.FirebaseFirestore', path='<DVTFilePath:0x7f8a41713ad0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b6060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseFirestore', executablePath='<DVTFilePath:0x7f8a417152e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a90d2ef10; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7f8a417164d0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4124d1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7f8a41717ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a8a573420; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7f8a4171ed00:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4158a180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7f8a41720510:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a95d47f30; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7f8a41718ee0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415ad9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8aacef7a50; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7f8a4171a710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a427bceb0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7f8a4171b900:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a535d20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7f8a8a3c2160:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a4158c860; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x7f8a95b3fe50:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a427b6270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x7f8a8a5fec40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a427ae620; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x7f8a8a3a6750:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412c5790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x7f8a8a3e6f40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a95d6b5e0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x7f8a90d43640:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a0180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x7f8a4171dc10:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a427c05d0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7f8a41721700:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b1a00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5455f0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7f8a41723690:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a41708e80; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415c1c40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a412b50e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412b51b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a415bd170; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415baed0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a415accb0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a3fa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a415a0480; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5455f0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a8a5456a0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415acf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a41596e60; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41596a60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a415c7930; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7f8a41727cc0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4170a2c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7f8a41729ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8a41591660; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x7f8a4172a4e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x7f8a4172c4c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionItemRemovalStep
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-12-18 15:15:47 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-12-18 15:15:47 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-12-18 15:15:47 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-12-18 15:15:47 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap'
+2020-12-18 15:15:47 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap 
+2020-12-18 15:15:47 +0000  copying file ./EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap ... 
+2020-12-18 15:15:47 +0000  34748 bytes for ./EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap
+2020-12-18 15:15:47 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:47 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap'
+2020-12-18 15:15:47 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap 
+2020-12-18 15:15:47 +0000  copying file ./122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap ... 
+2020-12-18 15:15:47 +0000  158818 bytes for ./122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap
+2020-12-18 15:15:47 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:47 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap'
+2020-12-18 15:15:47 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap 
+2020-12-18 15:15:47 +0000  copying file ./D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap ... 
+2020-12-18 15:15:47 +0000  14087 bytes for ./D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap
+2020-12-18 15:15:47 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:47 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap'
+2020-12-18 15:15:47 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap 
+2020-12-18 15:15:47 +0000  copying file ./E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap ... 
+2020-12-18 15:15:47 +0000  2836 bytes for ./E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap
+2020-12-18 15:15:47 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  1323181 bytes for ./0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  36385 bytes for ./39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  54074 bytes for ./2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  36616 bytes for ./F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  32214 bytes for ./86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  130229 bytes for ./62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  768103 bytes for ./64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  274278 bytes for ./4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  88287 bytes for ./38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  2823 bytes for ./1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  280021 bytes for ./F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/BCSymbolMaps/B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap'
+2020-12-18 15:15:48 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/BCSymbolMaps/B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap 
+2020-12-18 15:15:48 +0000  copying file ./B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap ... 
+2020-12-18 15:15:48 +0000  176042 bytes for ./B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap
+2020-12-18 15:15:48 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:48 +0000  Processing step: IDEDistributionSymbolsStep
+2020-12-18 15:15:48 +0000  Excluding symbols for FBLPromises.framework
+2020-12-18 15:15:48 +0000  Excluding symbols for FirebaseAuth.framework
+2020-12-18 15:15:48 +0000  Excluding symbols for FirebaseCore.framework
+2020-12-18 15:15:48 +0000  Excluding symbols for FirebaseCoreDiagnostics.framework
+2020-12-18 15:15:48 +0000  Excluding symbols for FirebaseFirestore.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for FirebaseInstallations.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for GTMSessionFetcher.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for GoogleDataTransport.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for GoogleUtilities.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for absl.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for grpc.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for grpcpp.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for leveldb.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftCore.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftDarwin.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftDispatch.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftFoundation.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2020-12-18 15:15:49 +0000  Excluding symbols for nanopb.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for openssl_grpc.framework
+2020-12-18 15:15:49 +0000  Excluding symbols for SAVIT.app
+2020-12-18 15:15:49 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2020-12-18 15:15:49 +0000  Running /usr/bin/ditto '-V' '/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/SwiftSupport' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/SwiftSupport'
+2020-12-18 15:15:49 +0000  >>> Copying /Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/SwiftSupport 
+2020-12-18 15:15:49 +0000  copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2020-12-18 15:15:49 +0000  853536 bytes for ./iphoneos/libswiftObjectiveC.dylib
+2020-12-18 15:15:49 +0000  copying file ./iphoneos/libswiftCore.dylib ... 
+2020-12-18 15:15:49 +0000  140528488 bytes for ./iphoneos/libswiftCore.dylib
+copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2020-12-18 15:15:49 +0000  2727340 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+copying file ./iphoneos/libswiftDispatch.dylib ... 
+2020-12-18 15:15:49 +0000  5501324 bytes for ./iphoneos/libswiftDispatch.dylib
+2020-12-18 15:15:49 +0000  copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2020-12-18 15:15:49 +0000  503571 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+copying file ./iphoneos/libswiftDarwin.dylib ... 
+2020-12-18 15:15:49 +0000  1412286 bytes for ./iphoneos/libswiftDarwin.dylib
+copying file ./iphoneos/libswiftFoundation.dylib ... 
+2020-12-18 15:15:49 +0000  62290319 bytes for ./iphoneos/libswiftFoundation.dylib
+2020-12-18 15:15:49 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:15:49 +0000  Processing step: IDEDistributionAppThinningStep
+2020-12-18 15:15:49 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-12-18 15:15:49 +0000  Processing step: IDEDistributionArchThinningStep
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "FBLPromises" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "FirebaseAuth" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "FirebaseCore" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "FirebaseCoreDiagnostics" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "FirebaseFirestore" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "FirebaseInstallations" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "GTMSessionFetcher" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "GoogleDataTransport" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "GoogleUtilities" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/absl.framework/absl' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "absl" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/grpc.framework/grpc' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "grpc" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/grpcpp.framework/grpcpp' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "grpcpp" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/leveldb.framework/leveldb' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:49 +0000  Skipping architecture thinning for item "leveldb" because arch "arm64e" wasn't found
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCore.dylib'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:49 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:49 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:50 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:50 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-12-18 15:15:50 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/nanopb.framework/nanopb' '-verify_arch' 'arm64e'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:50 +0000  Skipping architecture thinning for item "nanopb" because arch "arm64e" wasn't found
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc' '-verify_arch' 'arm64e'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:50 +0000  Skipping architecture thinning for item "openssl_grpc" because arch "arm64e" wasn't found
+2020-12-18 15:15:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/SAVIT' '-verify_arch' 'arm64e'
+2020-12-18 15:15:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-12-18 15:15:50 +0000  Skipping architecture thinning for item "SAVIT" because arch "arm64e" wasn't found
+2020-12-18 15:15:50 +0000  Processing step: IDEDistributionODRStep
+2020-12-18 15:15:50 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a427b5140; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7f8a8a5fdd80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4129cb40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a427c11d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7f8a95b7abe0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a95d67a90; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7f8a95b2b330:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a5bd520; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a91224600; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7f8a8a30bfa0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a427b19f0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7f8a8a3df7c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412a3250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a91224600; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7f8a41543300:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a90d09740; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7f8a8a512630:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a580860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e5320; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7f8a8a547280:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a95d67c00; bundleID='org.cocoapods.FirebaseFirestore', path='<DVTFilePath:0x7f8a41713ad0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b6060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415edc50; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseFirestore', executablePath='<DVTFilePath:0x7f8a417152e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a90d2ef10; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7f8a417164d0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4124d1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415edda0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7f8a41717ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a8a573420; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7f8a4171ed00:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4158a180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f27c0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7f8a41720510:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a95d47f30; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7f8a41718ee0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415ad9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e4d80; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7f8a4171a710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a427bceb0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7f8a4171b900:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a535d20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e6b60; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7f8a8a3c2160:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a4158c860; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x7f8a95b3fe50:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a427b6270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415ee550; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x7f8a8a5fec40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a427ae620; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x7f8a8a3a6750:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412c5790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415ee880; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x7f8a8a3e6f40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a95d6b5e0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x7f8a90d43640:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a0180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e4e80; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x7f8a4171dc10:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a427c05d0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7f8a41721700:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b1a00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e4ff0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7f8a41723690:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a41708e80; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415c1c40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a412b50e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412b51b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e6e70; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a415bd170; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415baed0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f30d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a415accb0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a3fa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e4f20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a415a0480; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e6c90; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a8a5456a0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415acf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e6f90; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a41596e60; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41596a60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e56a0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a415c7930; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7f8a41727cc0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4170a2c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f3930; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7f8a41729ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8a41591660; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x7f8a4172a4e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e7280; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x7f8a4172c4c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>
+2020-12-18 15:15:50 +0000  Running /usr/bin/xattr '-crs' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app'
+2020-12-18 15:15:50 +0000  /usr/bin/xattr exited with 0
+2020-12-18 15:15:50 +0000  Processing step: IDEDistributionCodesignStep
+2020-12-18 15:15:50 +0000  Entitlements for <IDEDistributionItem: 0x7f8a427b5140; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7f8a8a5fdd80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4129cb40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e7510; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7f8a95b7abe0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a427b5140; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7f8a8a5fdd80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4129cb40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a589980; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7f8a95b7abe0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~HZyC6O
+2020-12-18 15:15:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~HZyC6O' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FBLPromises.framework'
+2020-12-18 15:15:50 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FBLPromises.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FBLPromises]
+2020-12-18 15:15:50 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:50 +0000  Entitlements for <IDEDistributionItem: 0x7f8a95d67a90; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7f8a95b2b330:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a5bd520; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a90d21f60; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7f8a8a30bfa0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a95d67a90; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7f8a95b2b330:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a5bd520; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f5060; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7f8a8a30bfa0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~BvSzzw
+2020-12-18 15:15:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~BvSzzw' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseAuth.framework'
+2020-12-18 15:15:50 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseAuth.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseAuth]
+2020-12-18 15:15:50 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:50 +0000  Entitlements for <IDEDistributionItem: 0x7f8a427b19f0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7f8a8a3df7c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412a3250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7f8a41543300:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a427b19f0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7f8a8a3df7c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412a3250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5332a0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7f8a41543300:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~QTTcaI
+2020-12-18 15:15:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~QTTcaI' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseCore.framework'
+2020-12-18 15:15:50 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseCore.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseCore]
+2020-12-18 15:15:50 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:50 +0000  Entitlements for <IDEDistributionItem: 0x7f8a90d09740; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7f8a8a512630:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a580860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f47f0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7f8a8a547280:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a90d09740; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7f8a8a512630:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a580860; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e7930; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7f8a8a547280:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~yxKybU
+2020-12-18 15:15:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~yxKybU' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework'
+2020-12-18 15:15:50 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseCoreDiagnostics]
+2020-12-18 15:15:50 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:50 +0000  Entitlements for <IDEDistributionItem: 0x7f8a95d67c00; bundleID='org.cocoapods.FirebaseFirestore', path='<DVTFilePath:0x7f8a41713ad0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b6060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5c14b0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseFirestore', executablePath='<DVTFilePath:0x7f8a417152e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:50 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a95d67c00; bundleID='org.cocoapods.FirebaseFirestore', path='<DVTFilePath:0x7f8a41713ad0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b6060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5a3970; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseFirestore', executablePath='<DVTFilePath:0x7f8a417152e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~RGPOHi
+2020-12-18 15:15:50 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~RGPOHi' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseFirestore]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a90d2ef10; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7f8a417164d0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4124d1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8aace823c0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7f8a41717ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a90d2ef10; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7f8a417164d0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4124d1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f0840; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7f8a41717ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~222HN1
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~222HN1' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseInstallations]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a8a573420; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7f8a4171ed00:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4158a180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7f8a41720510:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a8a573420; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7f8a4171ed00:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4158a180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e5970; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7f8a41720510:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~r5jAEy
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~r5jAEy' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GTMSessionFetcher]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a95d47f30; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7f8a41718ee0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415ad9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7f8a4171a710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a95d47f30; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7f8a41718ee0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415ad9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5a3970; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7f8a4171a710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~FxZPJn
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~FxZPJn' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GoogleDataTransport]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a427bceb0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7f8a4171b900:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a535d20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a427b5470; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7f8a8a3c2160:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a427bceb0; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7f8a4171b900:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a8a535d20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415efc40; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7f8a8a3c2160:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~Emxa3r
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~Emxa3r' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GoogleUtilities.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/GoogleUtilities.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.GoogleUtilities]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a4158c860; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x7f8a95b3fe50:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a427b6270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x7f8a8a5fec40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a4158c860; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x7f8a95b3fe50:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a427b6270; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a55e790; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x7f8a8a5fec40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~O83KfI
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~O83KfI' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/absl.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/absl.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.absl]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a427ae620; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x7f8a8a3a6750:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412c5790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a42730560; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x7f8a8a3e6f40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a427ae620; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x7f8a8a3a6750:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412c5790; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a427ae800; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x7f8a8a3e6f40:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~KhOsHd
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~KhOsHd' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/grpc.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpc]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a95d6b5e0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x7f8a90d43640:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a0180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x7f8a4171dc10:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a95d6b5e0; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x7f8a90d43640:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a0180; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a412a12c0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x7f8a4171dc10:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~7ryyZo
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~7ryyZo' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/grpcpp.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/grpcpp.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpcpp]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a427c05d0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7f8a41721700:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b1a00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415efe30; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7f8a41723690:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a427c05d0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7f8a41721700:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415b1a00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e5220; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7f8a41723690:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~wWIC2e
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~wWIC2e' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/leveldb.framework'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/leveldb.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.leveldb]
+2020-12-18 15:15:51 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:51 +0000  Entitlements for <IDEDistributionItem: 0x7f8a41708e80; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415c1c40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f4bc0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a41708e80; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415c1c40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e7d60; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7f8a412a5b80:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~KGrIOG
+2020-12-18 15:15:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~KGrIOG' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCore.dylib'
+2020-12-18 15:15:51 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2020-12-18 15:15:52 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:52 +0000  Entitlements for <IDEDistributionItem: 0x7f8a412b50e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412b51b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a4279e1c0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a412b50e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a412b51b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f3bd0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7f8a42738710:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~rcmmNX
+2020-12-18 15:15:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~rcmmNX' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2020-12-18 15:15:52 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:52 +0000  Entitlements for <IDEDistributionItem: 0x7f8a415bd170; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415baed0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f1120; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a415bd170; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415baed0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e7a90; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7f8aaaf6b800:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~3q5UNr
+2020-12-18 15:15:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~3q5UNr' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2020-12-18 15:15:52 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:52 +0000  Entitlements for <IDEDistributionItem: 0x7f8a415accb0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a3fa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a415accb0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415a3fa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a95d67b00; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7f8a42799760:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~mou3Mw
+2020-12-18 15:15:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~mou3Mw' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib'
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2020-12-18 15:15:52 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:52 +0000  Entitlements for <IDEDistributionItem: 0x7f8a415a0480; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a5b97d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a415a0480; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f3bd0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7f8a97ebd550:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~T0Hqa1
+2020-12-18 15:15:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~T0Hqa1' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib'
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2020-12-18 15:15:52 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:52 +0000  Entitlements for <IDEDistributionItem: 0x7f8a8a5456a0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415acf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a90d53ea0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a8a5456a0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415acf00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f6200; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7f8a90ee8a70:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~z7KAg8
+2020-12-18 15:15:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~z7KAg8' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib'
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2020-12-18 15:15:52 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:52 +0000  Entitlements for <IDEDistributionItem: 0x7f8a41596e60; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41596a60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a412a1320; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a41596e60; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41596a60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e72e0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7f8a412a6470:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~nv221C
+2020-12-18 15:15:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~nv221C' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib'
+2020-12-18 15:15:52 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2020-12-18 15:15:53 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2020-12-18 15:15:53 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:53 +0000  Entitlements for <IDEDistributionItem: 0x7f8a415c7930; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7f8a41727cc0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4170a2c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a8a532cf0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7f8a41729ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a415c7930; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7f8a41727cc0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a4170a2c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415fa4d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7f8a41729ca0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~1yuwi6
+2020-12-18 15:15:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~1yuwi6' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/nanopb.framework'
+2020-12-18 15:15:53 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/nanopb.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.nanopb]
+2020-12-18 15:15:53 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:53 +0000  Entitlements for <IDEDistributionItem: 0x7f8a41591660; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x7f8a4172a4e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a416eed20; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x7f8a4172c4c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>: {
+}
+2020-12-18 15:15:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8a41591660; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x7f8a4172a4e0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a41593580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415e7780; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='(null)', teamID='DUTXAC2W79', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x7f8a4172c4c0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~aiTuuT
+2020-12-18 15:15:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~aiTuuT' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/openssl_grpc.framework'
+2020-12-18 15:15:53 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app/Frameworks/openssl_grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.openssl-grpc]
+2020-12-18 15:15:53 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:53 +0000  Entitlements for <IDEDistributionItem: 0x7f8aaceaa580; bundleID='ahmedshieha.SAVIT.uyftyf', path='<DVTFilePath:0x7f8a95b6cc20:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415c7b20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a427c11d0; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='{
+    "application-identifier" = "DUTXAC2W79.ahmedshieha.SAVIT.uyftyf";
+    "com.apple.developer.team-identifier" = DUTXAC2W79;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "DUTXAC2W79.ahmedshieha.SAVIT.uyftyf"
+    );
+}', teamID='DUTXAC2W79', identifier='ahmedshieha.SAVIT.uyftyf', executablePath='<DVTFilePath:0x7f8a89be8eb0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/SAVIT'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "DUTXAC2W79.ahmedshieha.SAVIT.uyftyf";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = DUTXAC2W79;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "DUTXAC2W79.ahmedshieha.SAVIT.uyftyf"
+    );
+}
+2020-12-18 15:15:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8aaceaa580; bundleID='ahmedshieha.SAVIT.uyftyf', path='<DVTFilePath:0x7f8a95b6cc20:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a415c7b20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a415f6200; name='Apple Development: Nahla Taha (S922DY9XL8)', hash='0315187358314E5CD1CE943B2AF479394D26E1B7', serialNumber='40CCDECF29011793', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-12-18 13:47:38 +0000''>', entitlements='{
+    "application-identifier" = "DUTXAC2W79.ahmedshieha.SAVIT.uyftyf";
+    "com.apple.developer.team-identifier" = DUTXAC2W79;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "DUTXAC2W79.ahmedshieha.SAVIT.uyftyf"
+    );
+}', teamID='DUTXAC2W79', identifier='ahmedshieha.SAVIT.uyftyf', executablePath='<DVTFilePath:0x7f8a89be8eb0:'/Users/Ahmed-Reda/Library/Developer/Xcode/Archives/2020-12-18/SAVIT 12-18-20, 5.15 PM.xcarchive/Products/Applications/SAVIT.app/SAVIT'>', hardenedRuntime='0'>'> to: /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~LgpA1D
+2020-12-18 15:15:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'AE341CBF5DEFFF5DECCFBFFA7F9D8E33598C5EEE' '--entitlements' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/entitlements~~~LgpA1D' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app'
+2020-12-18 15:15:53 +0000  /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root/Payload/SAVIT.app: signed app bundle with Mach-O thin (arm64) [ahmedshieha.SAVIT.uyftyf]
+2020-12-18 15:15:53 +0000  /usr/bin/codesign exited with 0
+2020-12-18 15:15:53 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-12-18 15:15:53 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-12-18 15:15:53 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root' '/var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Packages/SAVIT.ipa'
+2020-12-18 15:15:53 +0000  >>> Copying /var/folders/lf/86wj5ntj4mjbwzxyv1x_vyv40000gn/T/XcodeDistPipeline.~~~IBBzUL/Root 
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  2836 bytes for ./BCSymbolMaps/E41BC90E-35C5-3538-B3CC-8AE40676DC78.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  36385 bytes for ./BCSymbolMaps/39DA471D-479E-3495-9DDA-3665C3F47E46.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  1323181 bytes for ./BCSymbolMaps/0B4C0EBD-6894-30E0-AA40-460D160287C3.bcsymbolmap
+copying file ./BCSymbolMaps/64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  768103 bytes for ./BCSymbolMaps/64283DCB-C0DD-340E-BD7A-485C1A1FD1BB.bcsymbolmap
+copying file ./BCSymbolMaps/4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  274278 bytes for ./BCSymbolMaps/4FE65A3E-616A-3546-9BAE-3B30E36477EF.bcsymbolmap
+copying file ./BCSymbolMaps/1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  2823 bytes for ./BCSymbolMaps/1D701EAF-92AC-3B9F-8AE3-6F0333C52F2A.bcsymbolmap
+copying file ./BCSymbolMaps/38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  88287 bytes for ./BCSymbolMaps/38852B37-AAD3-34E8-A25C-44E07A18EEB2.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  34748 bytes for ./BCSymbolMaps/EA2C5EF7-8F34-3BCE-B3C8-973F84E93F42.bcsymbolmap
+copying file ./BCSymbolMaps/122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  158818 bytes for ./BCSymbolMaps/122B06AF-DAA8-3453-8595-C53876967826.bcsymbolmap
+copying file ./BCSymbolMaps/F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  280021 bytes for ./BCSymbolMaps/F6B52086-3757-3602-AE58-6BEFDC41CD34.bcsymbolmap
+copying file ./BCSymbolMaps/F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  36616 bytes for ./BCSymbolMaps/F36FE561-8BDD-36FF-A25B-0BB1B59367B1.bcsymbolmap
+copying file ./BCSymbolMaps/62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  130229 bytes for ./BCSymbolMaps/62611764-2463-341D-ADED-69350CDBFE19.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  14087 bytes for ./BCSymbolMaps/D8F8B892-52CD-32F9-B4DC-6733F039EA0C.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  54074 bytes for ./BCSymbolMaps/2A5F511B-9101-34F8-8B07-EF238C373C58.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  32214 bytes for ./BCSymbolMaps/86AA01E9-A84C-39E4-9F44-611119F1C9EB.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./BCSymbolMaps/B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap ... 
+2020-12-18 15:15:53 +0000  176042 bytes for ./BCSymbolMaps/B0A1089E-3C4F-322F-B826-59CB635ECF1C.bcsymbolmap
+2020-12-18 15:15:53 +0000  copying file ./Payload/SAVIT.app/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:53 +0000  22361 bytes for ./Payload/SAVIT.app/_CodeSignature/CodeResources
+2020-12-18 15:15:53 +0000  copying file ./Payload/SAVIT.app/SAVIT ... 
+2020-12-18 15:15:54 +0000  5564896 bytes for ./Payload/SAVIT.app/SAVIT
+copying file ./Payload/SAVIT.app/GoogleService-Info.plist ... 
+2020-12-18 15:15:54 +0000  654 bytes for ./Payload/SAVIT.app/GoogleService-Info.plist
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/objects-13.0+.nib ... 
+2059 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/objects-13.0+.nib
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/runtime.nib ... 
+2020-12-18 15:15:54 +0000  2059 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UINavigationController-BXE-xK-EqH.nib/runtime.nib
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/objects-13.0+.nib ... 
+1060 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/objects-13.0+.nib
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/runtime.nib ... 
+2020-12-18 15:15:54 +0000  1060 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/UIViewController-Hjp-Ig-Rz0.nib/runtime.nib
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:54 +0000  4854 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib
+2020-12-18 15:15:54 +0000  copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2020-12-18 15:15:54 +0000  4849 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2020-12-18 15:15:54 +0000  copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:54 +0000  4689 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/objects-13.0+.nib
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/runtime.nib ... 
+2020-12-18 15:15:54 +0000  4696 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/Hjp-Ig-Rz0-view-Pnq-fH-OJQ.nib/runtime.nib
+copying file ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2020-12-18 15:15:54 +0000  351 bytes for ./Payload/SAVIT.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:54 +0000  1197 bytes for ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+copying file ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-12-18 15:15:54 +0000  1197 bytes for ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+copying file ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-12-18 15:15:54 +0000  896 bytes for ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+copying file ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+896 bytes for ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-12-18 15:15:54 +0000  258 bytes for ./Payload/SAVIT.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:54 +0000  2472 bytes for ./Payload/SAVIT.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/grpcpp.framework/grpcpp ... 
+2020-12-18 15:15:54 +0000  2663904 bytes for ./Payload/SAVIT.app/Frameworks/grpcpp.framework/grpcpp
+2020-12-18 15:15:54 +0000  copying file ./Payload/SAVIT.app/Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem ... 
+2020-12-18 15:15:54 +0000  284228 bytes for ./Payload/SAVIT.app/Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem
+copying file ./Payload/SAVIT.app/Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist ... 
+2020-12-18 15:15:54 +0000  739 bytes for ./Payload/SAVIT.app/Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/grpcpp.framework/Info.plist ... 
+734 bytes for ./Payload/SAVIT.app/Frameworks/grpcpp.framework/Info.plist
+2020-12-18 15:15:54 +0000  copying file ./Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:54 +0000  copying file ./Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport ... 
+2020-12-18 15:15:54 +0000  864960 bytes for ./Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport
+copying file ./Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/Info.plist ... 
+2020-12-18 15:15:54 +0000  761 bytes for ./Payload/SAVIT.app/Frameworks/GoogleDataTransport.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib ... 
+2020-12-18 15:15:54 +0000  500080 bytes for ./Payload/SAVIT.app/Frameworks/libswiftObjectiveC.dylib
+2020-12-18 15:15:54 +0000  copying file ./Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore ... 
+2020-12-18 15:15:54 +0000  19519840 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/FirebaseFirestore
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/Info.plist ... 
+2020-12-18 15:15:54 +0000  758 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseFirestore.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher ... 
+2020-12-18 15:15:54 +0000  894624 bytes for ./Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher
+copying file ./Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/Info.plist ... 
+2020-12-18 15:15:54 +0000  757 bytes for ./Payload/SAVIT.app/Frameworks/GTMSessionFetcher.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/libswiftCore.dylib ... 
+2020-12-18 15:15:56 +0000  69852784 bytes for ./Payload/SAVIT.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2020-12-18 15:15:56 +0000  1535328 bytes for ./Payload/SAVIT.app/Frameworks/libswiftCoreGraphics.dylib
+2020-12-18 15:15:56 +0000  copying file ./Payload/SAVIT.app/Frameworks/FBLPromises.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/FBLPromises.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises ... 
+2020-12-18 15:15:56 +0000  455728 bytes for ./Payload/SAVIT.app/Frameworks/FBLPromises.framework/FBLPromises
+copying file ./Payload/SAVIT.app/Frameworks/FBLPromises.framework/Info.plist ... 
+2020-12-18 15:15:56 +0000  744 bytes for ./Payload/SAVIT.app/Frameworks/FBLPromises.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib ... 
+2020-12-18 15:15:56 +0000  2993312 bytes for ./Payload/SAVIT.app/Frameworks/libswiftDispatch.dylib
+2020-12-18 15:15:56 +0000  copying file ./Payload/SAVIT.app/Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore ... 
+2020-12-18 15:15:56 +0000  484672 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseCore.framework/FirebaseCore
+2020-12-18 15:15:56 +0000  copying file ./Payload/SAVIT.app/Frameworks/FirebaseCore.framework/Info.plist ... 
+745 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseCore.framework/Info.plist
+2020-12-18 15:15:56 +0000  copying file ./Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources
+2020-12-18 15:15:56 +0000  copying file ./Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities ... 
+2020-12-18 15:15:56 +0000  740592 bytes for ./Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/GoogleUtilities
+copying file ./Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/Info.plist ... 
+2020-12-18 15:15:56 +0000  753 bytes for ./Payload/SAVIT.app/Frameworks/GoogleUtilities.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources ... 
+2020-12-18 15:15:56 +0000  1798 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth ... 
+2020-12-18 15:15:56 +0000  3530864 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/FirebaseAuth
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/Info.plist ... 
+2020-12-18 15:15:56 +0000  746 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseAuth.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2020-12-18 15:15:57 +0000  335904 bytes for ./Payload/SAVIT.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib ... 
+2020-12-18 15:15:57 +0000  813968 bytes for ./Payload/SAVIT.app/Frameworks/libswiftDarwin.dylib
+2020-12-18 15:15:57 +0000  copying file ./Payload/SAVIT.app/Frameworks/nanopb.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/nanopb.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/nanopb.framework/nanopb ... 
+2020-12-18 15:15:57 +0000  139120 bytes for ./Payload/SAVIT.app/Frameworks/nanopb.framework/nanopb
+copying file ./Payload/SAVIT.app/Frameworks/nanopb.framework/Info.plist ... 
+2020-12-18 15:15:57 +0000  737 bytes for ./Payload/SAVIT.app/Frameworks/nanopb.framework/Info.plist
+2020-12-18 15:15:57 +0000  copying file ./Payload/SAVIT.app/Frameworks/leveldb.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/leveldb.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/leveldb.framework/leveldb ... 
+2020-12-18 15:15:57 +0000  1944272 bytes for ./Payload/SAVIT.app/Frameworks/leveldb.framework/leveldb
+copying file ./Payload/SAVIT.app/Frameworks/leveldb.framework/Info.plist ... 
+2020-12-18 15:15:57 +0000  736 bytes for ./Payload/SAVIT.app/Frameworks/leveldb.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/grpc.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/grpc.framework/grpc ... 
+2020-12-18 15:15:57 +0000  12756192 bytes for ./Payload/SAVIT.app/Frameworks/grpc.framework/grpc
+copying file ./Payload/SAVIT.app/Frameworks/grpc.framework/Info.plist ... 
+2020-12-18 15:15:57 +0000  730 bytes for ./Payload/SAVIT.app/Frameworks/grpc.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc ... 
+2020-12-18 15:15:57 +0000  6941936 bytes for ./Payload/SAVIT.app/Frameworks/openssl_grpc.framework/openssl_grpc
+copying file ./Payload/SAVIT.app/Frameworks/openssl_grpc.framework/Info.plist ... 
+2020-12-18 15:15:57 +0000  745 bytes for ./Payload/SAVIT.app/Frameworks/openssl_grpc.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/absl.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/absl.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/absl.framework/absl ... 
+2020-12-18 15:15:57 +0000  1876736 bytes for ./Payload/SAVIT.app/Frameworks/absl.framework/absl
+copying file ./Payload/SAVIT.app/Frameworks/absl.framework/Info.plist ... 
+2020-12-18 15:15:57 +0000  736 bytes for ./Payload/SAVIT.app/Frameworks/absl.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations ... 
+2020-12-18 15:15:57 +0000  676912 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/Info.plist ... 
+2020-12-18 15:15:57 +0000  765 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseInstallations.framework/Info.plist
+copying file ./Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib ... 
+2020-12-18 15:15:58 +0000  31957056 bytes for ./Payload/SAVIT.app/Frameworks/libswiftFoundation.dylib
+2020-12-18 15:15:58 +0000  copying file ./Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics ... 
+2020-12-18 15:15:58 +0000  153936 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics
+copying file ./Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/Info.plist ... 
+2020-12-18 15:15:58 +0000  769 bytes for ./Payload/SAVIT.app/Frameworks/FirebaseCoreDiagnostics.framework/Info.plist
+copying file ./Payload/SAVIT.app/embedded.mobileprovision ... 
+2020-12-18 15:15:58 +0000  9325 bytes for ./Payload/SAVIT.app/embedded.mobileprovision
+2020-12-18 15:15:58 +0000  copying file ./Payload/SAVIT.app/Info.plist ... 
+1415 bytes for ./Payload/SAVIT.app/Info.plist
+copying file ./Payload/SAVIT.app/PkgInfo ... 
+2020-12-18 15:15:58 +0000  8 bytes for ./Payload/SAVIT.app/PkgInfo
+copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2020-12-18 15:15:58 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2020-12-18 15:16:01 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2020-12-18 15:16:01 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+2020-12-18 15:16:01 +0000  copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2020-12-18 15:16:02 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2020-12-18 15:16:02 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2020-12-18 15:16:02 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2020-12-18 15:16:03 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2020-12-18 15:16:03 +0000  /usr/bin/ditto exited with 0
+2020-12-18 15:16:03 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-12-18 15:16:03 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-12-18 15:16:03 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-12-18 15:16:04 +0000  Processing step: IDEDistributionCreateManifestStep
+2020-12-18 15:16:04 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
