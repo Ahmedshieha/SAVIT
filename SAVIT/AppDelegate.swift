@@ -16,8 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         FirebaseApp.configure()
+        let pageControl = UIPageControl.appearance()
+        pageControl.currentPageIndicatorTintColor = .blue
+        pageControl.pageIndicatorTintColor = .lightGray
         return true
     }
+    
+
 
     // MARK: UISceneSession Lifecycle
       @available(iOS 13.0 , *)

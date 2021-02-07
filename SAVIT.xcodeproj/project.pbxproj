@@ -17,6 +17,11 @@
 		042F061F257ED7DF0068434A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 042F061E257ED7DF0068434A /* GoogleService-Info.plist */; };
 		042F0620257ED7DF0068434A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 042F061E257ED7DF0068434A /* GoogleService-Info.plist */; };
 		042F0622258022060068434A /* SignUPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F0621258022060068434A /* SignUPViewController.swift */; };
+		044A512825CC727A007357B8 /* DashBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044A512725CC727A007357B8 /* DashBoardViewController.swift */; };
+		047306A925CF633D009D5F38 /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047306A825CF633D009D5F38 /* UIViewController+Extensions.swift */; };
+		047306AD25CF6E39009D5F38 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047306AC25CF6E39009D5F38 /* ViewController3.swift */; };
+		048B520625CF5866009E1781 /* Sign In.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B520525CF5866009E1781 /* Sign In.swift */; };
+		048B520C25CF5872009E1781 /* Sign Up.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B520B25CF5872009E1781 /* Sign Up.swift */; };
 		C4A47BFFA3CA0C4D290B0AC6 /* Pods_SAVITTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 482248439C6F1E0F759A1E88 /* Pods_SAVITTests.framework */; };
 		E9B4E9AF19CF35E37680DE7C /* Pods_SAVIT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85AA5094581E3C309B7FDD02 /* Pods_SAVIT.framework */; };
 /* End PBXBuildFile section */
@@ -45,6 +50,11 @@
 		042F0615257ED68F0068434A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		042F061E257ED7DF0068434A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		042F0621258022060068434A /* SignUPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUPViewController.swift; sourceTree = "<group>"; };
+		044A512725CC727A007357B8 /* DashBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardViewController.swift; sourceTree = "<group>"; };
+		047306A825CF633D009D5F38 /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
+		047306AC25CF6E39009D5F38 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		048B520525CF5866009E1781 /* Sign In.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sign In.swift"; sourceTree = "<group>"; };
+		048B520B25CF5872009E1781 /* Sign Up.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sign Up.swift"; sourceTree = "<group>"; };
 		16501444473B556144BE0980 /* Pods-SAVIT.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SAVIT.debug.xcconfig"; path = "Target Support Files/Pods-SAVIT/Pods-SAVIT.debug.xcconfig"; sourceTree = "<group>"; };
 		297D46998F0783B4308F2CC9 /* Pods-SAVIT.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SAVIT.release.xcconfig"; path = "Target Support Files/Pods-SAVIT/Pods-SAVIT.release.xcconfig"; sourceTree = "<group>"; };
 		482248439C6F1E0F759A1E88 /* Pods_SAVITTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SAVITTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -96,15 +106,18 @@
 		042F05FB257ED68C0068434A /* SAVIT */ = {
 			isa = PBXGroup;
 			children = (
+				047306A625CF6308009D5F38 /* Utilities */,
+				048B520425CF584B009E1781 /* Network */,
+				048B520F25CF5877009E1781 /* Controller */,
+				047306A525CF62B6009D5F38 /* Model */,
+				047306A425CF62A7009D5F38 /* View */,
 				042F05FC257ED68C0068434A /* AppDelegate.swift */,
 				042F05FE257ED68C0068434A /* SceneDelegate.swift */,
-				042F0600257ED68C0068434A /* ViewController.swift */,
-				042F0602257ED68C0068434A /* Main.storyboard */,
 				042F0605257ED68E0068434A /* Assets.xcassets */,
+				042F0602257ED68C0068434A /* Main.storyboard */,
 				042F0607257ED68E0068434A /* LaunchScreen.storyboard */,
-				042F060A257ED68E0068434A /* Info.plist */,
 				042F061E257ED7DF0068434A /* GoogleService-Info.plist */,
-				042F0621258022060068434A /* SignUPViewController.swift */,
+				042F060A257ED68E0068434A /* Info.plist */,
 			);
 			path = SAVIT;
 			sourceTree = "<group>";
@@ -116,6 +129,56 @@
 				042F0615257ED68F0068434A /* Info.plist */,
 			);
 			path = SAVITTests;
+			sourceTree = "<group>";
+		};
+		047306A425CF62A7009D5F38 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		047306A525CF62B6009D5F38 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		047306A625CF6308009D5F38 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				047306A725CF631A009D5F38 /* Extensions */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		047306A725CF631A009D5F38 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				047306A825CF633D009D5F38 /* UIViewController+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		048B520425CF584B009E1781 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				048B520525CF5866009E1781 /* Sign In.swift */,
+				048B520B25CF5872009E1781 /* Sign Up.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		048B520F25CF5877009E1781 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				042F0600257ED68C0068434A /* ViewController.swift */,
+				042F0621258022060068434A /* SignUPViewController.swift */,
+				044A512725CC727A007357B8 /* DashBoardViewController.swift */,
+				047306AC25CF6E39009D5F38 /* ViewController3.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 		9BE2E99826D2F31DDFB4A555 /* Frameworks */ = {
@@ -186,7 +249,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1230;
 				ORGANIZATIONNAME = Reda;
 				TargetAttributes = {
 					042F05F8257ED68C0068434A = {
@@ -310,7 +373,12 @@
 			files = (
 				042F0601257ED68C0068434A /* ViewController.swift in Sources */,
 				042F05FD257ED68C0068434A /* AppDelegate.swift in Sources */,
+				047306AD25CF6E39009D5F38 /* ViewController3.swift in Sources */,
+				044A512825CC727A007357B8 /* DashBoardViewController.swift in Sources */,
 				042F0622258022060068434A /* SignUPViewController.swift in Sources */,
+				047306A925CF633D009D5F38 /* UIViewController+Extensions.swift in Sources */,
+				048B520C25CF5872009E1781 /* Sign Up.swift in Sources */,
+				048B520625CF5866009E1781 /* Sign In.swift in Sources */,
 				042F05FF257ED68C0068434A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -379,6 +447,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -403,7 +472,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -439,6 +508,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -457,7 +527,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -475,7 +545,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DUTXAC2W79;
 				INFOPLIST_FILE = SAVIT/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -495,7 +565,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DUTXAC2W79;
 				INFOPLIST_FILE = SAVIT/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
