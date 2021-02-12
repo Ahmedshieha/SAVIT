@@ -10,6 +10,7 @@ import Foundation
 import UIKit
 
 extension UIViewController {
+
     func alert (title : String , message : String){
            
            let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
@@ -17,12 +18,6 @@ extension UIViewController {
            present(alert,animated: true)
            }
     
-    func goToDashBoardViewController () {
-        let dashBoardViewController = UIStoryboard(name: "Main", bundle: nil)
-        let DashBoardViewController = dashBoardViewController.instantiateViewController(withIdentifier: "DashBoardViewController")
-        DashBoardViewController.modalPresentationStyle = .fullScreen
-        self.present(DashBoardViewController, animated: true, completion: nil)
-    }
     
     
 }

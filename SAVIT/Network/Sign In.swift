@@ -12,14 +12,14 @@ import FirebaseFirestore
 import UIKit
 
 
-class SignIn : UIViewController   {
+class SignIn   {
     
     
     static func login (_ combletionHandler : @escaping ()->() , email : String , password : String) {
         FirebaseAuth.Auth.auth().signIn(withEmail: email, password: password) { (result, error) in
             guard error == nil else {
                 return
-                
+                    
             }
             combletionHandler()
             

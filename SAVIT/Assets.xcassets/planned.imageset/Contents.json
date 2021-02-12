@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "dashboard-24px (1).png",
+      "filename" : "planned.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "dashboard-24px (1)@2x.png",
+      "filename" : "planned@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "dashboard-24px (1)@3x.png",
+      "filename" : "planned@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

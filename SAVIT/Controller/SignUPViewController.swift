@@ -59,15 +59,26 @@ class SignUPViewController: UIViewController {
         if emailTextField.text == confirmEmailTextField.text && passwordTextField.text == confirmPasswordTextField.text {
             
             signUp {
-                self.goToDashBoardViewController()
+                self.goToTabBarViewController()
             }
         }
         else {
             alert(title: "Error", message: "something error")
+            
         }
         
         
         
     }
+    func goToTabBarViewController () {
+        let storyBoard = UIStoryboard(name: "Main", bundle: nil)
+        let TabBarViewController = storyBoard.instantiateViewController(withIdentifier: "TabBarViewController")
+    TabBarViewController.modalPresentationStyle = .fullScreen
+    self.present(TabBarViewController,animated: true , completion : nil)
+
+
+
+    }
+
     
 }

@@ -10,44 +10,48 @@ import UIKit
 import Firebase
 import FirebaseFirestore
 
-
-
 @available(iOS 13.0, *)
+
 class ViewController: UIViewController {
 
-
-    
-    
-    
     @IBOutlet weak var emailTextField: UITextField!
     @IBOutlet weak var passwordTextField: UITextField!
-    
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(true)
-        self.navigationController?.setNavigationBarHidden(true, animated: true)
-    }
-    
     @IBAction func loginButton(_ sender: UIButton) {
         
-//        SignIn.login(self.goToDashBoardViewController, email: emailTextField.text!, password: passwordTextField.text!)
-        
         login {
-            self.goToDashBoardViewController()
+            self.goToTabBarViewController ()
         }
-            
         
     }
     @IBAction func signUpButton(_ sender: Any) {
         self.goToSignUp()
         
     }
-    
-    override func viewDidLoad() {
+    override func viewDidAppear(_ animated: Bool) {
+        
+        if Auth.auth().currentUser != nil {
+            goToTabBarViewController()
+        } else {
+        }
+    }
+     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         emailTextField.borderStyle = .none
         passwordTextField.borderStyle = .none
         passwordTextField.isSecureTextEntry = true
+        
+        let toolBar =  UIToolbar(frame: CGRect(x: 0, y: 0, width: view.frame.size.width, height: 35))
+        toolBar.barStyle = .default
+        toolBar.sizeToFit()
+
+        // Adding Button ToolBar
+        let doneButton = UIBarButtonItem(title: "Done", style: .plain, target: self, action: #selector(loginButton(_:)))
+        toolBar.items = [doneButton]
+        toolBar.isUserInteractionEnabled = true
+        passwordTextField.inputAccessoryView = toolBar
+        emailTextField.inputAccessoryView = toolBar
+
         
     }
     
@@ -55,11 +59,13 @@ class ViewController: UIViewController {
         
     }
     
+    func hideKeyboard () {}
+    
     func goToSignUp () {
-        let signUPViewController = UIStoryboard(name: "Main", bundle: nil)
-        let SignUPViewController = signUPViewController.instantiateViewController(withIdentifier: "SignUPViewController")
-        SignUPViewController.modalPresentationStyle = .fullScreen
-        self.present(SignUPViewController, animated: true, completion: nil)
+        let storyBoard = UIStoryboard(name: "Main", bundle: nil)
+        let signUPViewController = storyBoard.instantiateViewController(withIdentifier: "SignUPViewController")
+        signUPViewController.modalPresentationStyle = .fullScreen
+        self.present(signUPViewController, animated: true, completion: nil)
     }
     
     func login (_ combletionHandler : @escaping ()->()) {
@@ -74,8 +80,21 @@ class ViewController: UIViewController {
             
         }
     
-     
+    func goToTabBarViewController () {
+        let storyBoard = UIStoryboard(name: "Main", bundle: nil)
+        let TabBarViewController = storyBoard.instantiateViewController(withIdentifier: "TabBarViewController")
+    TabBarViewController.modalPresentationStyle = .fullScreen
+    self.present(TabBarViewController,animated: true , completion : nil)
+
+
+
     }
+ 
+    
+
+     
+}
+
     
 
 

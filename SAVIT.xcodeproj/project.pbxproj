@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0409ABAB25D2D335008C3EC8 /* ScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0409ABAA25D2D335008C3EC8 /* ScrollViewController.swift */; };
+		0409ABB525D2DD19008C3EC8 /* Slide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0409ABB425D2DD19008C3EC8 /* Slide.swift */; };
+		0409ABBB25D2DD90008C3EC8 /* Slide.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0409ABBA25D2DD90008C3EC8 /* Slide.xib */; };
+		04190AE325D3117000D1CEEF /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04190AE225D3117000D1CEEF /* TabBarViewController.swift */; };
 		042F05FD257ED68C0068434A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F05FC257ED68C0068434A /* AppDelegate.swift */; };
 		042F05FF257ED68C0068434A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F05FE257ED68C0068434A /* SceneDelegate.swift */; };
 		042F0601257ED68C0068434A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F0600257ED68C0068434A /* ViewController.swift */; };
@@ -17,11 +21,17 @@
 		042F061F257ED7DF0068434A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 042F061E257ED7DF0068434A /* GoogleService-Info.plist */; };
 		042F0620257ED7DF0068434A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 042F061E257ED7DF0068434A /* GoogleService-Info.plist */; };
 		042F0622258022060068434A /* SignUPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F0621258022060068434A /* SignUPViewController.swift */; };
-		044A512825CC727A007357B8 /* DashBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044A512725CC727A007357B8 /* DashBoardViewController.swift */; };
 		047306A925CF633D009D5F38 /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047306A825CF633D009D5F38 /* UIViewController+Extensions.swift */; };
-		047306AD25CF6E39009D5F38 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047306AC25CF6E39009D5F38 /* ViewController3.swift */; };
 		048B520625CF5866009E1781 /* Sign In.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B520525CF5866009E1781 /* Sign In.swift */; };
 		048B520C25CF5872009E1781 /* Sign Up.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B520B25CF5872009E1781 /* Sign Up.swift */; };
+		04C87CE825D5748F0033B7A4 /* MoreStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C87CE725D5748F0033B7A4 /* MoreStoryboard.storyboard */; };
+		04C87CEC25D5835A0033B7A4 /* AccountsStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C87CEB25D5835A0033B7A4 /* AccountsStoryboard.storyboard */; };
+		04C87CF025D5836C0033B7A4 /* PlannedStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C87CEF25D5836C0033B7A4 /* PlannedStoryboard.storyboard */; };
+		04C87CF425D583780033B7A4 /* GoalsStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C87CF325D583780033B7A4 /* GoalsStoryboard.storyboard */; };
+		04C87CF825D583980033B7A4 /* DashboardStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C87CF725D583980033B7A4 /* DashboardStoryboard.storyboard */; };
+		04C87D0125D58FC50033B7A4 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C87D0025D58FC50033B7A4 /* MoreViewController.swift */; };
+		04C87D0925D590A00033B7A4 /* MoreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C87D0725D590A00033B7A4 /* MoreTableViewCell.swift */; };
+		04C87D0A25D590A00033B7A4 /* MoreTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04C87D0825D590A00033B7A4 /* MoreTableViewCell.xib */; };
 		C4A47BFFA3CA0C4D290B0AC6 /* Pods_SAVITTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 482248439C6F1E0F759A1E88 /* Pods_SAVITTests.framework */; };
 		E9B4E9AF19CF35E37680DE7C /* Pods_SAVIT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85AA5094581E3C309B7FDD02 /* Pods_SAVIT.framework */; };
 /* End PBXBuildFile section */
@@ -37,6 +47,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0409ABAA25D2D335008C3EC8 /* ScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewController.swift; sourceTree = "<group>"; };
+		0409ABB425D2DD19008C3EC8 /* Slide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slide.swift; sourceTree = "<group>"; };
+		0409ABBA25D2DD90008C3EC8 /* Slide.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Slide.xib; sourceTree = "<group>"; };
+		04190AE225D3117000D1CEEF /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		042F05F9257ED68C0068434A /* SAVIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SAVIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		042F05FC257ED68C0068434A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		042F05FE257ED68C0068434A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -50,11 +64,17 @@
 		042F0615257ED68F0068434A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		042F061E257ED7DF0068434A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		042F0621258022060068434A /* SignUPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUPViewController.swift; sourceTree = "<group>"; };
-		044A512725CC727A007357B8 /* DashBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardViewController.swift; sourceTree = "<group>"; };
 		047306A825CF633D009D5F38 /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
-		047306AC25CF6E39009D5F38 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 		048B520525CF5866009E1781 /* Sign In.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sign In.swift"; sourceTree = "<group>"; };
 		048B520B25CF5872009E1781 /* Sign Up.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sign Up.swift"; sourceTree = "<group>"; };
+		04C87CE725D5748F0033B7A4 /* MoreStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MoreStoryboard.storyboard; sourceTree = "<group>"; };
+		04C87CEB25D5835A0033B7A4 /* AccountsStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AccountsStoryboard.storyboard; sourceTree = "<group>"; };
+		04C87CEF25D5836C0033B7A4 /* PlannedStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PlannedStoryboard.storyboard; sourceTree = "<group>"; };
+		04C87CF325D583780033B7A4 /* GoalsStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = GoalsStoryboard.storyboard; sourceTree = "<group>"; };
+		04C87CF725D583980033B7A4 /* DashboardStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DashboardStoryboard.storyboard; sourceTree = "<group>"; };
+		04C87D0025D58FC50033B7A4 /* MoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
+		04C87D0725D590A00033B7A4 /* MoreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreTableViewCell.swift; sourceTree = "<group>"; };
+		04C87D0825D590A00033B7A4 /* MoreTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MoreTableViewCell.xib; sourceTree = "<group>"; };
 		16501444473B556144BE0980 /* Pods-SAVIT.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SAVIT.debug.xcconfig"; path = "Target Support Files/Pods-SAVIT/Pods-SAVIT.debug.xcconfig"; sourceTree = "<group>"; };
 		297D46998F0783B4308F2CC9 /* Pods-SAVIT.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SAVIT.release.xcconfig"; path = "Target Support Files/Pods-SAVIT/Pods-SAVIT.release.xcconfig"; sourceTree = "<group>"; };
 		482248439C6F1E0F759A1E88 /* Pods_SAVITTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SAVITTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,14 +127,15 @@
 			isa = PBXGroup;
 			children = (
 				047306A625CF6308009D5F38 /* Utilities */,
+				04C87CFF25D58FA80033B7A4 /* TabBar */,
 				048B520425CF584B009E1781 /* Network */,
 				048B520F25CF5877009E1781 /* Controller */,
 				047306A525CF62B6009D5F38 /* Model */,
+				04C87CE625D572790033B7A4 /* Storyboards */,
 				047306A425CF62A7009D5F38 /* View */,
 				042F05FC257ED68C0068434A /* AppDelegate.swift */,
 				042F05FE257ED68C0068434A /* SceneDelegate.swift */,
 				042F0605257ED68E0068434A /* Assets.xcassets */,
-				042F0602257ED68C0068434A /* Main.storyboard */,
 				042F0607257ED68E0068434A /* LaunchScreen.storyboard */,
 				042F061E257ED7DF0068434A /* GoogleService-Info.plist */,
 				042F060A257ED68E0068434A /* Info.plist */,
@@ -134,6 +155,9 @@
 		047306A425CF62A7009D5F38 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				0409ABB425D2DD19008C3EC8 /* Slide.swift */,
+				0409ABBA25D2DD90008C3EC8 /* Slide.xib */,
+				04C87D0625D590780033B7A4 /* MoreCell */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -175,10 +199,40 @@
 			children = (
 				042F0600257ED68C0068434A /* ViewController.swift */,
 				042F0621258022060068434A /* SignUPViewController.swift */,
-				044A512725CC727A007357B8 /* DashBoardViewController.swift */,
-				047306AC25CF6E39009D5F38 /* ViewController3.swift */,
+				0409ABAA25D2D335008C3EC8 /* ScrollViewController.swift */,
+				04190AE225D3117000D1CEEF /* TabBarViewController.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		04C87CE625D572790033B7A4 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				042F0602257ED68C0068434A /* Main.storyboard */,
+				04C87CE725D5748F0033B7A4 /* MoreStoryboard.storyboard */,
+				04C87CEB25D5835A0033B7A4 /* AccountsStoryboard.storyboard */,
+				04C87CEF25D5836C0033B7A4 /* PlannedStoryboard.storyboard */,
+				04C87CF325D583780033B7A4 /* GoalsStoryboard.storyboard */,
+				04C87CF725D583980033B7A4 /* DashboardStoryboard.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		04C87CFF25D58FA80033B7A4 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				04C87D0025D58FC50033B7A4 /* MoreViewController.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		04C87D0625D590780033B7A4 /* MoreCell */ = {
+			isa = PBXGroup;
+			children = (
+				04C87D0725D590A00033B7A4 /* MoreTableViewCell.swift */,
+				04C87D0825D590A00033B7A4 /* MoreTableViewCell.xib */,
+			);
+			path = MoreCell;
 			sourceTree = "<group>";
 		};
 		9BE2E99826D2F31DDFB4A555 /* Frameworks */ = {
@@ -285,10 +339,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04C87CF825D583980033B7A4 /* DashboardStoryboard.storyboard in Resources */,
+				04C87CF425D583780033B7A4 /* GoalsStoryboard.storyboard in Resources */,
+				0409ABBB25D2DD90008C3EC8 /* Slide.xib in Resources */,
 				042F0609257ED68E0068434A /* LaunchScreen.storyboard in Resources */,
 				042F061F257ED7DF0068434A /* GoogleService-Info.plist in Resources */,
 				042F0606257ED68E0068434A /* Assets.xcassets in Resources */,
+				04C87CE825D5748F0033B7A4 /* MoreStoryboard.storyboard in Resources */,
 				042F0604257ED68C0068434A /* Main.storyboard in Resources */,
+				04C87CF025D5836C0033B7A4 /* PlannedStoryboard.storyboard in Resources */,
+				04C87D0A25D590A00033B7A4 /* MoreTableViewCell.xib in Resources */,
+				04C87CEC25D5835A0033B7A4 /* AccountsStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,12 +434,15 @@
 			files = (
 				042F0601257ED68C0068434A /* ViewController.swift in Sources */,
 				042F05FD257ED68C0068434A /* AppDelegate.swift in Sources */,
-				047306AD25CF6E39009D5F38 /* ViewController3.swift in Sources */,
-				044A512825CC727A007357B8 /* DashBoardViewController.swift in Sources */,
 				042F0622258022060068434A /* SignUPViewController.swift in Sources */,
 				047306A925CF633D009D5F38 /* UIViewController+Extensions.swift in Sources */,
+				04C87D0925D590A00033B7A4 /* MoreTableViewCell.swift in Sources */,
+				04C87D0125D58FC50033B7A4 /* MoreViewController.swift in Sources */,
 				048B520C25CF5872009E1781 /* Sign Up.swift in Sources */,
+				0409ABB525D2DD19008C3EC8 /* Slide.swift in Sources */,
+				0409ABAB25D2D335008C3EC8 /* ScrollViewController.swift in Sources */,
 				048B520625CF5866009E1781 /* Sign In.swift in Sources */,
+				04190AE325D3117000D1CEEF /* TabBarViewController.swift in Sources */,
 				042F05FF257ED68C0068434A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -543,14 +607,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DUTXAC2W79;
+				DEVELOPMENT_TEAM = 3UA7J8M967;
 				INFOPLIST_FILE = SAVIT/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ahmedshieha.SAVIT.uyftyf;
+				PRODUCT_BUNDLE_IDENTIFIER = ahmedshieha.SAVIT;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -563,14 +627,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DUTXAC2W79;
+				DEVELOPMENT_TEAM = 3UA7J8M967;
 				INFOPLIST_FILE = SAVIT/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ahmedshieha.SAVIT.uyftyf;
+				PRODUCT_BUNDLE_IDENTIFIER = ahmedshieha.SAVIT;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

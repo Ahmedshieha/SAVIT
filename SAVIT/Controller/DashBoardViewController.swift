@@ -31,7 +31,7 @@ class DashBoardViewController: UIPageViewController {
         button.backgroundColor = .black
         button.setTitle("Skip", for: .normal)
         button.layer.cornerRadius = 10
-        button.addTarget(self, action: #selector(buttonAction(sender:)), for: .touchUpInside)
+//        button.addTarget(self, action: #selector(skipButtonAction(sender:)), for: .touchUpInside)
         self.view.addSubview(button)
     }
     
