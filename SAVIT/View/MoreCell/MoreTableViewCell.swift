@@ -16,25 +16,22 @@ class MoreTableViewCell: UITableViewCell {
         
     }
     
-    @IBOutlet weak var buttonName: UIButton!
     
     @IBOutlet weak var imageCell: UIImageView!
     
+    @IBOutlet weak var lable: UILabel!
     
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
         // Configure the view for the selected state
     }
-    @IBAction func buttonCell(_ sender: UIButton) {
-        print("button")
-    }
+
     
-    func configureCell (image:UIImage ,buttonTitle:String ) {
+    func configureCell (image:UIImage ,cellTitle:String ) {
         imageCell.image = image
-        buttonName.setTitle(buttonTitle, for: .normal)
-        
-        
+        lable.text! = cellTitle
+    
     }
     
     

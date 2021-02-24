@@ -14,7 +14,7 @@ class MoreViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     var logoImages : [UIImage] = [UIImage(named: "history-24px")!,UIImage(named: "payments-24px")!,UIImage(named:"card_giftcard-24px" )!,UIImage(named: "group-24px (1)")!,UIImage(named: "history-24px")!,UIImage(named: "history-24px")!,UIImage(named: "history-24px")!,UIImage(named: "history-24px")!]
-    var buutonsName : [String] = ["Records","Depts","Loans","Group Sharing","Setting","Terms & Conditions","Log Out"]
+    var lableName : [String] = ["Records","Depts","Loans","Group Sharing","Setting","Terms & Conditions","Log Out"]
    
     
     
@@ -30,16 +30,6 @@ class MoreViewController: UIViewController {
         let cellNib = UINib(nibName: "MoreTableViewCell", bundle: nil)
         tableView.register(cellNib, forCellReuseIdentifier: "MoreTableViewCell")
     }
-    @IBAction func logOut(_ sender: Any) {
-        let firebaseAuth = Auth.auth()
-     do {
-       try firebaseAuth.signOut()
-     } catch let signOutError as NSError {
-       print ("Error signing out: %@", signOutError)
-     }
-        print("yes")
-    }
-    
 
 }
 
@@ -47,25 +37,26 @@ class MoreViewController: UIViewController {
 extension MoreViewController : UITableViewDelegate,UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 70
+        return tableView.frame.size.height / 7
+//        return 70
     }
     
     
-    func numberOfSections(in tableView: UITableView) -> Int {
-        return 1
+    func tableView(_ tableView: UITableView, estimatedHeightForRowAt indexPath: IndexPath) -> CGFloat {
+        return self.tableView.frame.size.height/7
     }
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 7
+        return lableName.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "MoreTableViewCell") as! MoreTableViewCell
-        cell.configureCell(image: logoImages[indexPath.row], buttonTitle: buutonsName[indexPath.row])
+        cell.configureCell(image: logoImages[indexPath.row], cellTitle: lableName[indexPath.row])
         return cell
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print("ahmed")
+        print(lableName[indexPath.row])
     }
     
     

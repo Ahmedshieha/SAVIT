@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="q3Q-AY-7f0">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <device id="retina6_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
@@ -14,44 +14,33 @@
             <objects>
                 <viewController id="q3Q-AY-7f0" customClass="MoreViewController" customModule="SAVIT" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="KIw-vj-8qe">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Explore More" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="qX3-2a-Upt">
-                                <rect key="frame" x="127.5" y="54" width="159" height="31.5"/>
+                                <rect key="frame" x="134.66666666666666" y="53.999999999999993" width="158.99999999999997" height="31.666666666666664"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="26"/>
                                 <color key="textColor" red="0.31065446140000003" green="0.59369081260000001" blue="0.79610365630000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="singleLineEtched" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="b9Z-4Z-tsa">
-                                <rect key="frame" x="0.0" y="126.5" width="414" height="466.5"/>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="singleLineEtched" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="b9Z-4Z-tsa">
+                                <rect key="frame" x="0.0" y="126.66666666666669" width="428" height="716.33333333333326"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <connections>
                                     <outlet property="dataSource" destination="q3Q-AY-7f0" id="WhX-0Q-YB0"/>
                                     <outlet property="delegate" destination="q3Q-AY-7f0" id="Pbq-bM-03T"/>
                                 </connections>
                             </tableView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="emq-s4-akk">
-                                <rect key="frame" x="150" y="629" width="115" height="30"/>
-                                <state key="normal" title="LogOut "/>
-                                <connections>
-                                    <action selector="logOut:" destination="q3Q-AY-7f0" eventType="touchUpInside" id="hyg-uQ-qQC"/>
-                                </connections>
-                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="nqE-tQ-KWo"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="nqE-tQ-KWo" firstAttribute="bottom" secondItem="emq-s4-akk" secondAttribute="bottom" constant="154" id="AAG-9Z-zGN"/>
-                            <constraint firstItem="emq-s4-akk" firstAttribute="top" secondItem="b9Z-4Z-tsa" secondAttribute="bottom" constant="36" id="K2x-FN-QgV"/>
                             <constraint firstItem="b9Z-4Z-tsa" firstAttribute="leading" secondItem="nqE-tQ-KWo" secondAttribute="leading" id="M7k-bC-6y4"/>
                             <constraint firstItem="qX3-2a-Upt" firstAttribute="centerX" secondItem="KIw-vj-8qe" secondAttribute="centerX" id="NJ0-vc-uxv"/>
                             <constraint firstItem="nqE-tQ-KWo" firstAttribute="trailing" secondItem="b9Z-4Z-tsa" secondAttribute="trailing" id="OTb-iU-AEi"/>
                             <constraint firstItem="b9Z-4Z-tsa" firstAttribute="top" secondItem="qX3-2a-Upt" secondAttribute="bottom" constant="41" id="ZZE-rK-OnV"/>
-                            <constraint firstItem="emq-s4-akk" firstAttribute="leading" secondItem="nqE-tQ-KWo" secondAttribute="leading" constant="150" id="boA-xh-fq4"/>
-                            <constraint firstItem="nqE-tQ-KWo" firstAttribute="bottom" secondItem="b9Z-4Z-tsa" secondAttribute="bottom" constant="220" id="fHW-MG-uKh"/>
+                            <constraint firstItem="nqE-tQ-KWo" firstAttribute="bottom" secondItem="b9Z-4Z-tsa" secondAttribute="bottom" id="fHW-MG-uKh"/>
                             <constraint firstItem="b9Z-4Z-tsa" firstAttribute="centerX" secondItem="KIw-vj-8qe" secondAttribute="centerX" id="gSp-fC-cG0"/>
-                            <constraint firstItem="nqE-tQ-KWo" firstAttribute="trailing" secondItem="emq-s4-akk" secondAttribute="trailing" constant="149" id="nWp-Hz-YgG"/>
                             <constraint firstItem="qX3-2a-Upt" firstAttribute="top" secondItem="nqE-tQ-KWo" secondAttribute="top" constant="10" id="oJ2-2X-opG"/>
                         </constraints>
                     </view>
@@ -67,7 +56,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="More" width="32.5" height="32.5"/>
+        <image name="More" width="30" height="30"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
