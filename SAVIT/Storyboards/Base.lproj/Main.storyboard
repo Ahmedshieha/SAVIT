@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="R56-DN-CdL">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="RFH-Ee-bea">
     <device id="retina6_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
@@ -70,18 +70,6 @@
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="vpn_key-24px" translatesAutoresizingMaskIntoConstraints="NO" id="edq-re-JGV">
                                 <rect key="frame" x="33" y="461" width="33" height="30"/>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pn3-cu-3vJ">
-                                <rect key="frame" x="302" y="511.66666666666674" width="101" height="33"/>
-                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="12"/>
-                                <state key="normal" title="Forget Password?">
-                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                    <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="default"/>
-                                </state>
-                                <connections>
-                                    <action selector="forgotButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nJ7-vw-MBW"/>
-                                    <action selector="forgotButton:" destination="hIV-uR-q2w" eventType="touchUpInside" id="pW7-I3-AV0"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xS5-b4-VTW">
                                 <rect key="frame" x="65" y="587" width="298" height="30"/>
                                 <color key="backgroundColor" red="0.31408584119999999" green="0.848944068" blue="0.56465536360000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -119,7 +107,6 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="0.31064391139999997" green="0.59374386069999996" blue="0.79218167070000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
-                            <constraint firstItem="pn3-cu-3vJ" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="65" id="7Zk-d2-Mnv"/>
                             <constraint firstItem="z43-hq-Qtx" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="66.5" id="9R0-jP-xCE"/>
                             <constraint firstItem="xTv-y1-n8F" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="9bN-nq-Mff"/>
                             <constraint firstItem="uCW-D6-Lno" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.0367171" id="9tc-7U-Iey"/>
@@ -127,7 +114,6 @@
                             <constraint firstItem="edq-re-JGV" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.0771028" id="CA6-eh-PtS"/>
                             <constraint firstItem="3P7-Hp-Qdg" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.0771028" id="Cj9-mp-q9o"/>
                             <constraint firstItem="Uv1-Q2-eg5" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-46" id="I0E-ad-xCp"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="pn3-cu-3vJ" secondAttribute="trailing" constant="25" id="IRs-Mh-dvf"/>
                             <constraint firstItem="Ijn-Hb-div" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-36" id="IUT-Ua-M58"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Ijn-Hb-div" secondAttribute="bottom" constant="83" id="Iko-br-XKN"/>
                             <constraint firstItem="edq-re-JGV" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="13" id="JO4-GH-l9i"/>
@@ -152,7 +138,6 @@
                             <constraint firstItem="xTv-y1-n8F" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-46" id="gIK-Bi-ndN"/>
                             <constraint firstItem="Ijn-Hb-div" firstAttribute="top" secondItem="xS5-b4-VTW" secondAttribute="bottom" constant="169" id="jrI-Iv-fWk"/>
                             <constraint firstItem="3P7-Hp-Qdg" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.0323974" id="lHF-gj-QGX"/>
-                            <constraint firstItem="pn3-cu-3vJ" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.0356371" id="lgy-H4-PdI"/>
                             <constraint firstItem="dji-ci-wG3" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.0615551" id="mVZ-55-qxK"/>
                             <constraint firstItem="uCW-D6-Lno" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.724299" id="o9f-Rw-8ZP"/>
                             <constraint firstItem="xTv-y1-n8F" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.049676" id="rGc-rd-F2n"/>
@@ -170,7 +155,6 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <exit id="hIV-uR-q2w" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="4007" y="91"/>
         </scene>
